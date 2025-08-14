@@ -44,11 +44,9 @@ Filter by status
 
 
 📂 File Structure
-order-tracker/
-│
-├── app.py        # Main Python program
-├── orders.json   # Stores orders (starts empty)
-└── README.md     # Project documentation
+- `app.py` — Main Python program  
+- `orders.json` — Stores orders (starts empty)  
+- `README.md` — Project documentation  
 
 
 📸 Example
@@ -65,4 +63,5 @@ Order added!
 Listing orders:
 
 ID: 001, Item: T-shirt, Qty: 3, Status: Pending
+
 
